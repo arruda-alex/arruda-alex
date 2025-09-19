@@ -19,12 +19,6 @@ Atuar como Analista de Dados, utilizando minha experiência em análise operacio
                 title="Total de estrelas no GitHub" 
                 src="https://custom-icon-badges.demolab.com/github/stars/arruda-alex?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
         </a>
-        <a href="https://www.linkedin.com/in/alex-silva-arruda/">
-            <img 
-                alt="Pagina do LinkedIn" 
-                title="Pagina do LinkedIn" 
-                src="https://custom-icon-badges.demolab.com/github/stars/arruda-alex?color=55960c&style=for-the-badge&labelColor=488207&logo=linkedin&label=linkedIn"/>
-        </a>
    </p>
 
    ---
