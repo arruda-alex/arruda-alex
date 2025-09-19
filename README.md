@@ -19,6 +19,12 @@ Atuar como Analista de Dados, utilizando minha experiência em análise operacio
                 title="Total de estrelas no GitHub" 
                 src="https://custom-icon-badges.demolab.com/github/stars/arruda-alex?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
         </a>
+        <a href="https://www.linkedin.com/in/alex-silva-arruda/">
+            <img 
+                alt="Pagina do LinkedIn" 
+                title="Pagina do LinkedIn" 
+                src="https://custom-icon-badges.demolab.com/github/stars/arruda-alex?color=55960c&style=for-the-badge&labelColor=488207&logo=linkedin&label=linkedIn"/>
+        </a>
    </p>
 
    ---
@@ -73,4 +79,12 @@ Atuar como Analista de Dados, utilizando minha experiência em análise operacio
     height="200px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=arruda-alex&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+/>
+
+<img 
+    align="left"
+    alt="GitHub Statcs"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arruda-alex&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=4"
 />
